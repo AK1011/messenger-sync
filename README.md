@@ -1,0 +1,1 @@
+Prototype Message Syncing App, that will sync channels from different types of chats and repeat messages from one to the other (for those where half the group uses one message app and the other uses another).
